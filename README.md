@@ -7,7 +7,7 @@ NIM: A0B025079
 
 Hasil Pivot Table
 
-<img src="pivot-table.png" width="500">
+<img src="pivot-table.png" width="300">
 
 Gambar 1. Hasil analisis PivotTable luas lahan berdasarkan tingkat keasaman tanah.
 
